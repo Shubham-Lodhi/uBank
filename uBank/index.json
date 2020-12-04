@@ -33,7 +33,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {"showide": true},
+  "environment": {
+  "uilayout": "vscode-terminal-split"
+  },
   "backend": {
     "imageid": "ubuntu1804"
   }
